@@ -1,0 +1,4 @@
+,share from gdp_qoq,share from d_unemployment,share from d_inflation,share from d_policy_rate,cum. inflation response to policy shock (h=8)
+baseline (GDP first),0.205,0.007,0.773,0.016,-0.165
+policy rate first,0.149,0.004,0.761,0.087,-0.008
+reversed,0.006,0.002,0.905,0.087,-0.008
